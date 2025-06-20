@@ -1,6 +1,0 @@
-python-dotenv
-google-generativeai
-tqdm
-pathspec
-
-
